@@ -1,2 +1,2 @@
-# cps-ws-mobile
+# ws-mobile
 webservices 
